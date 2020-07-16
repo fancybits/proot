@@ -77,7 +77,7 @@ typedef unsigned char byte_t;
     #define OFFSETOF_STAT_UID_32 24
     #define OFFSETOF_STAT_GID_32 28
 
-    #define LOADER_ADDRESS 0x700000000000
+    #define LOADER_ADDRESS 0x6000000000000
     #define HAS_LOADER_32BIT true
 
     #define EXEC_PIC_ADDRESS   0x500000000000
